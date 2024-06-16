@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1553177514 source:d:\projects\c\stringoperations\mystring.c
+	<stdlib.h>
+
+1553176956 source:d:\projects\c\stringoperations\mystrtest.c
+	"mystring.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1553176953 d:\projects\c\stringoperations\mystring.h
+
